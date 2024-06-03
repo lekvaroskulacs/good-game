@@ -1,0 +1,5 @@
+
+FINISH map saving and loding
+jsonutility doesnt support maps so ill have to make it into something else
+
+after that create map function
